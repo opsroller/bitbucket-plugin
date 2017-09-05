@@ -15,9 +15,9 @@
     <url>https://wiki.jenkins-ci.org/display/JENKINS/BitBucket+Plugin</url>
 
     <scm>
-        <connection>scm:git:git://github.com/jenkinsci/bitbucket-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:jenkinsci/bitbucket-plugin.git</developerConnection>
-        <url>https://github.com/jenkinsci/bitbucket-plugin</url>
+        <connection>scm:git:git://github.com/opsroller/bitbucket-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:opsroller/bitbucket-plugin.git</developerConnection>
+        <url>https://github.com/opsroller/bitbucket-plugin</url>
         <tag>HEAD</tag>
     </scm>
 
